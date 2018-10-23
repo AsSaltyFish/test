@@ -1,7 +1,9 @@
 #include<stdio.h>
 #include<string.h>
+// 这是一个关于函数的测试
+// 调用居中显示字符的函数
 
-
+// 定义函数，如果函数的实现写在main函数前面，可以不写
 void center(int line_width, char input[], char ch);
 
 int main()
@@ -13,6 +15,7 @@ int main()
     return 0;
 }
 
+// 函数实现
 void center(int line_width, char input[], char ch)
 {
     if(strlen(input) >= line_width)
@@ -37,5 +40,4 @@ void center(int line_width, char input[], char ch)
         }
         printf("\n");
     }
-
 }

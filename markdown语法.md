@@ -1,5 +1,3 @@
-[toc]
-
 [link]:agaagaegae  
 ## 一、markdown 简介
 markdown 是一种轻量级的标注语言，可以以纯文本的格式编写文档，也容易将文档转换成有效的XHTML或HTML。
@@ -105,7 +103,3 @@ _ _ _ _
 [img.png](./img.png)  
 　　包含标题的链接，如：
 [google](http://www.google.com/ "Google")   
-
-
-* 【参考式】  
-可以将内容先卸载别的地方
